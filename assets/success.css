@@ -28,7 +28,7 @@ body{
     font-size: 20px;
     padding-left: 20px;
     padding-right: 20px;
-    Margin-bottom:30px;
+    /* margin-bottom: 30px; */
 }
 
 
@@ -43,7 +43,7 @@ body{
     font-size: 20px;
     padding-left: 20px;
     padding-right: 20px;
-    Margin-bottom:30px;
+    /* margin-bottom: 30px; */
 }
 
 .darkbluebutton{
@@ -57,11 +57,11 @@ body{
     font-size: 20px;
     padding-left: 20px;
     padding-right: 20px;
-    Margin-bottom:30px;
 }
 
-
-
+.box{
+    margin-bottom: 30px;
+}
 
 h1{
     margin: 30px;
