@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+
+body{
+    margin: 0px;
+    font-family: 'Lato', sans-serif;
+    /* background-color: rgb(255, 255, 255); */
+    align-items: center;
+    background-image: radial-gradient(#7bb1e7 10%, transparent 20%),
+      radial-gradient(#7bb1e7 10%, transparent 20%);
+    background-color: #ffffff;
+    background-position: 0 0, 70px 70px;
+    background-size: 10px 10px;
+    /* height: 700px; */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.bluebutton{
+    border-radius: 20px;
+    background-color: #047aed;
+    height:40px;
+    width:auto;
+    border:none;
+    cursor: pointer;
+    color: #333;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 30px;
+}
+
+
+.orangebutton{
+    border-radius: 20px;
+    background-color: orange;
+    height:40px;
+    width:auto;
+    border:none;
+    cursor: pointer;
+    color: #333;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 30px;
+}
+
+.darkbluebutton{
+    border-radius: 20px;
+    background-color: #002240;
+    height:40px;
+    width:auto;
+    border:none;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h1{
+    margin: 30px;
+}
